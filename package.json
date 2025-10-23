@@ -24,10 +24,10 @@
     "test": "npm run lint && grunt ci"
   },
   "dependencies": {
-    "async": "^3.2.4",
+    "async": "3.2.6",
     "critical": "github:addyosmani/critical#bump-penthouse",
-    "glob": "^8.0.3",
-    "lodash": "^4.17.20"
+    "glob": "11.0.3",
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "chai": "^4.3.6",
